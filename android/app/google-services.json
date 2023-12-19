@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "866762471040",
+    "project_id": "newattendance-c8a1c",
+    "storage_bucket": "newattendance-c8a1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866762471040:android:f4bd43c3f65999d88f1865",
+        "android_client_info": {
+          "package_name": "com.example.new_attendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDliS0g4lV3UUvRD_bxDjqkDU_LJ8d4n7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
